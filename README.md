@@ -1,1 +1,1 @@
-use npm install for frontend and backend
+need to use npm install!
